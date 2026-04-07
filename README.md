@@ -61,5 +61,12 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # hasil tugas :
 <img width="1865" height="1079" alt="image" src="https://github.com/user-attachments/assets/ccfeddba-69e7-4092-9de5-fd981c6f57ae" />
 
+# Praktikum 2
+<img width="1856" height="1199" alt="image" src="https://github.com/user-attachments/assets/a655f340-bfd2-4e81-a259-b218430e03fe" />
+# login
+<img width="1858" height="1091" alt="image" src="https://github.com/user-attachments/assets/1be4287f-d34f-4005-9529-6ffbdef0ca8a" />
+
+
+
 
 
