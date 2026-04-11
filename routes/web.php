@@ -6,7 +6,7 @@ use App\Http\Controllers\ProductController;
 
 Route::redirect('/', '/login');
 
-Route::get('/dashboard', function () {
+Route::get('/dashboard', function () {  
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
